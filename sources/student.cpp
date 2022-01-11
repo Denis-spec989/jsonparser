@@ -52,7 +52,6 @@ unsigned len_name(const student_t& student){
 }
 
 unsigned max_len_name(const std::vector<student_t>& students){
-
     unsigned l = 0;
     for (auto const& student : students) {
         l = fmax(l, len_name(student));

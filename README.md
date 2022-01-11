@@ -176,3 +176,8 @@ void print(const student_t& student, std::ostream& os) {
     }
 }
 ```
+___
+
+## Результат работы parser'а
+
+![avatar](https://psv4.userapi.com/c237131/u444276852/docs/d28/dfe363d75de1/scrinparser.jpg?extra=u74QV3cGWP0oQhyZymqCemqZrkA2n5t9qMYtxTidTQ9T3tUf9dqLgSF8-kk86uC8LwkIqrD1HuWDQZvbiIXk6j5XXe2v9mi0G0AAWz1Q_y__e49Ef_Pz7Q7FeXd8ml9Pa_eMgDJfECYu5SPU9PUsGBg)
